@@ -1,0 +1,11 @@
+.\objects\gui_templatethread.o: GUI_TemplateThread.c
+.\objects\gui_templatethread.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\RTOS\RTX\INC\cmsis_os.h
+.\objects\gui_templatethread.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\gui_templatethread.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\gui_templatethread.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\GUI.h
+.\objects\gui_templatethread.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\GUI_ConfDefaults.h
+.\objects\gui_templatethread.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\GUIConf.h
+.\objects\gui_templatethread.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\GUI_Type.h
+.\objects\gui_templatethread.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\LCD.h
+.\objects\gui_templatethread.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\Global.h
+.\objects\gui_templatethread.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\GUI_Version.h

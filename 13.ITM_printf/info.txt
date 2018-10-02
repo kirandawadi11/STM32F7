@@ -1,0 +1,8 @@
+There is a debug printf window in Keil Debugger which can be invoked using ITM_Sendchar(char) function associated with pritnf function.
+
+In the Debug option, click Trace Enable!
+And make the clock 216 MHz
+And in the IT Stimulus ports replace 0xFFFFFFFF by 0x00000001
+by ticking only on the Port7..0 
+
+/*******************@Kiran Dawadi@******************/

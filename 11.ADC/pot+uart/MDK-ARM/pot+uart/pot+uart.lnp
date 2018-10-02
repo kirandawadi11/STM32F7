@@ -1,0 +1,28 @@
+--cpu Cortex-M7.fp.sp
+"pot+uart\startup_stm32f746xx.o"
+"pot+uart\stm32f7xx_hal_dma_ex.o"
+"pot+uart\stm32f7xx_hal_dma.o"
+"pot+uart\stm32f7xx_hal_cortex.o"
+"pot+uart\stm32f7xx_hal_flash.o"
+"pot+uart\stm32f7xx_hal_pwr.o"
+"pot+uart\stm32f7xx_hal_i2c_ex.o"
+"pot+uart\stm32f7xx_hal.o"
+"pot+uart\stm32f7xx_hal_pwr_ex.o"
+"pot+uart\stm32f7xx_hal_gpio.o"
+"pot+uart\stm32f7xx_hal_adc_ex.o"
+"pot+uart\stm32f7xx_hal_i2c.o"
+"pot+uart\stm32f7xx_hal_rcc_ex.o"
+"pot+uart\stm32f7xx_hal_flash_ex.o"
+"pot+uart\stm32f7xx_hal_tim.o"
+"pot+uart\stm32f7xx_hal_rcc.o"
+"pot+uart\stm32f7xx_hal_adc.o"
+"pot+uart\stm32f7xx_hal_uart.o"
+"pot+uart\stm32f7xx_hal_tim_ex.o"
+"pot+uart\system_stm32f7xx.o"
+"pot+uart\main.o"
+"pot+uart\stm32f7xx_hal_msp.o"
+"pot+uart\stm32f7xx_it.o"
+--library_type=microlib --strict --scatter "pot+uart\pot+uart.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "pot+uart.map" -o pot+uart\pot+uart.axf

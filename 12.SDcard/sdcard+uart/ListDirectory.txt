@@ -1,0 +1,22 @@
+void ListDirectory(DIR* dir)
+{
+FILINFO fno;
+FRESULT res;
+unsigned long Size;
+boolean IsInKB;
+
+for(;;;)
+{
+res = f_readdir(dir,&fno);		//read a directory item
+if(res != FR_OK || fno.fname[0] == 0)
+{
+break;
+}
+Size = fno.fsize;
+IsInKB = false;
+if(Size > 1024)
+{
+Size = Size/1024;
+IsInKB = true;
+}
+printf("->%-15s%5d%-2s      %-5s\n\r",fno.name,Size,(IsInKB ==true)?"KB":"B",(fno.attrib&AM_DIR)?"Dir":"File");

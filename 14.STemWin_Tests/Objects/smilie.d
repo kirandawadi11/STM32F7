@@ -1,0 +1,10 @@
+.\objects\smilie.o: smilie.c
+.\objects\smilie.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\smilie.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\GUI.h
+.\objects\smilie.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\smilie.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\GUI_ConfDefaults.h
+.\objects\smilie.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\GUIConf.h
+.\objects\smilie.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\GUI_Type.h
+.\objects\smilie.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\LCD.h
+.\objects\smilie.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\Global.h
+.\objects\smilie.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\GUI_Version.h

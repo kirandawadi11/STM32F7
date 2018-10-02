@@ -1,0 +1,19 @@
+--cpu Cortex-M7.fp.sp
+"blinky\startup_stm32f746xx.o"
+"blinky\system_stm32f7xx.o"
+"blinky\main.o"
+"blinky\stm32f7xx_hal_msp.o"
+"blinky\stm32f7xx_it.o"
+"blinky\stm32f7xx_hal_1.o"
+"blinky\stm32f7xx_hal_cortex_1.o"
+"blinky\stm32f7xx_hal_gpio_1.o"
+"blinky\stm32f7xx_hal_ltdc.o"
+"blinky\stm32f7xx_hal_ltdc_ex.o"
+"blinky\stm32f7xx_hal_pwr_1.o"
+"blinky\stm32f7xx_hal_pwr_ex_1.o"
+"blinky\stm32f7xx_hal_rcc_1.o"
+"blinky\stm32f7xx_hal_rcc_ex_1.o"
+--library_type=microlib --strict --scatter "Blinky\Blinky.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Blinky.map" -o Blinky\Blinky.axf

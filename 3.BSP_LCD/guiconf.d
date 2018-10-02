@@ -1,0 +1,9 @@
+.\guiconf.o: RTE\Graphics\GUIConf.c
+.\guiconf.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\GUI.h
+.\guiconf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\guiconf.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\GUI_ConfDefaults.h
+.\guiconf.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\GUIConf.h
+.\guiconf.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\GUI_Type.h
+.\guiconf.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\LCD.h
+.\guiconf.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\Global.h
+.\guiconf.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\GUI_Version.h

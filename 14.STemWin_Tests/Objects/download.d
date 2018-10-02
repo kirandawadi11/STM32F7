@@ -1,0 +1,10 @@
+.\objects\download.o: download.c
+.\objects\download.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\download.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\GUI.h
+.\objects\download.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\download.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\GUI_ConfDefaults.h
+.\objects\download.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\GUIConf.h
+.\objects\download.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\GUI_Type.h
+.\objects\download.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\LCD.h
+.\objects\download.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\Global.h
+.\objects\download.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\emWin\Include\GUI_Version.h
